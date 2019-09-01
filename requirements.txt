@@ -1,0 +1,32 @@
+#Install the following dependencies
+
+#Install Spacy
+pip3 install spacy
+
+#Install German
+python -m spacy download de_core_news_sm
+
+#Install Greek
+python -m spacy download el_core_news_sm
+
+#Install English
+python -m spacy download en_core_web_sm
+
+#Install Spanish
+python -m spacy download es_core_news_sm
+
+#Install French
+python -m spacy download fr_core_news_sm
+
+#Install Italian
+python -m spacy download it_core_news_sm
+
+#Install Dutch
+python -m spacy download nl_core_news_sm
+
+#Install Portuguese
+python -m spacy download pt_core_news_sm
+
+#Install Multi-language
+python -m spacy download xx_ent_wiki_sm
+
